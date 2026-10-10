@@ -1,0 +1,296 @@
+attempt_id,student_id,source,attempt_status,attempted_at,subject,chapter,topic,difficulty,answered,is_correct,time_taken_sec
+pq-001,demo-student-001,practice,completed,2026-07-02T16:25:00.000Z,Biology,Neural Control and Coordination,Reflex Action,easy,True,True,
+pq-001,demo-student-001,practice,completed,2026-07-02T16:25:00.000Z,Biology,Neural Control and Coordination,Reflex Action,easy,True,True,
+pq-001,demo-student-001,practice,completed,2026-07-02T16:25:00.000Z,Biology,Neural Control and Coordination,Reflex Action,medium,True,True,
+pq-001,demo-student-001,practice,completed,2026-07-02T16:25:00.000Z,Biology,Neural Control and Coordination,Reflex Action,easy,True,True,
+pq-001,demo-student-001,practice,completed,2026-07-02T16:25:00.000Z,Biology,Neural Control and Coordination,Reflex Action,medium,True,True,
+pq-001,demo-student-001,practice,completed,2026-07-02T16:25:00.000Z,Biology,Neural Control and Coordination,Reflex Action,easy,True,True,
+pq-001,demo-student-001,practice,completed,2026-07-02T16:25:00.000Z,Biology,Neural Control and Coordination,Reflex Action,easy,True,True,
+pq-001,demo-student-001,practice,completed,2026-07-02T16:25:00.000Z,Biology,Neural Control and Coordination,Reflex Action,medium,True,True,
+pq-002,demo-student-001,practice,completed,2026-07-18T15:48:00.000Z,Physics,Laws of Motion,Newton's Second Law,hard,True,False,
+pq-002,demo-student-001,practice,completed,2026-07-18T15:48:00.000Z,Physics,Laws of Motion,Newton's Second Law,medium,True,True,
+pq-002,demo-student-001,practice,completed,2026-07-18T15:48:00.000Z,Physics,Laws of Motion,Newton's Second Law,hard,True,True,
+pq-002,demo-student-001,practice,completed,2026-07-18T15:48:00.000Z,Physics,Laws of Motion,Newton's Second Law,easy,True,True,
+pq-002,demo-student-001,practice,completed,2026-07-18T15:48:00.000Z,Physics,Laws of Motion,Newton's Second Law,hard,True,True,
+pq-002,demo-student-001,practice,completed,2026-07-18T15:48:00.000Z,Physics,Laws of Motion,Newton's Second Law,medium,True,True,
+pq-002,demo-student-001,practice,completed,2026-07-18T15:48:00.000Z,Physics,Laws of Motion,Newton's Second Law,medium,True,False,
+pq-002,demo-student-001,practice,completed,2026-07-18T15:48:00.000Z,Physics,Laws of Motion,Newton's Second Law,medium,True,False,
+pq-002,demo-student-001,practice,completed,2026-07-18T15:48:00.000Z,Physics,Laws of Motion,Newton's Second Law,hard,True,False,
+pq-002,demo-student-001,practice,completed,2026-07-18T15:48:00.000Z,Physics,Laws of Motion,Newton's Second Law,medium,True,True,
+pq-003,demo-student-001,practice,completed,2026-07-27T16:18:00.000Z,Physics,Motion in a Plane,Projectile Motion,medium,True,False,
+pq-003,demo-student-001,practice,completed,2026-07-27T16:18:00.000Z,Physics,Motion in a Plane,Projectile Motion,hard,True,False,
+pq-003,demo-student-001,practice,completed,2026-07-27T16:18:00.000Z,Physics,Motion in a Plane,Projectile Motion,medium,True,True,
+pq-003,demo-student-001,practice,completed,2026-07-27T16:18:00.000Z,Physics,Motion in a Plane,Projectile Motion,easy,True,True,
+pq-003,demo-student-001,practice,completed,2026-07-27T16:18:00.000Z,Physics,Motion in a Plane,Projectile Motion,hard,True,False,
+pq-003,demo-student-001,practice,completed,2026-07-27T16:18:00.000Z,Physics,Motion in a Plane,Projectile Motion,medium,True,True,
+pq-003,demo-student-001,practice,completed,2026-07-27T16:18:00.000Z,Physics,Motion in a Plane,Projectile Motion,medium,True,False,
+pq-003,demo-student-001,practice,completed,2026-07-27T16:18:00.000Z,Physics,Motion in a Plane,Projectile Motion,medium,True,True,
+pq-004,demo-student-001,practice,completed,2026-07-28T15:52:00.000Z,Biology,Biological Classification,Kingdom Protista,medium,True,True,
+pq-004,demo-student-001,practice,completed,2026-07-28T15:52:00.000Z,Biology,Biological Classification,Kingdom Protista,hard,True,False,
+pq-004,demo-student-001,practice,completed,2026-07-28T15:52:00.000Z,Biology,Biological Classification,Kingdom Protista,easy,True,True,
+pq-004,demo-student-001,practice,completed,2026-07-28T15:52:00.000Z,Biology,Biological Classification,Kingdom Protista,hard,True,True,
+pq-004,demo-student-001,practice,completed,2026-07-28T15:52:00.000Z,Biology,Biological Classification,Kingdom Protista,medium,True,True,
+pq-004,demo-student-001,practice,completed,2026-07-28T15:52:00.000Z,Biology,Biological Classification,Kingdom Protista,hard,True,True,
+pq-004,demo-student-001,practice,completed,2026-07-28T15:52:00.000Z,Biology,Biological Classification,Kingdom Protista,hard,True,False,
+pq-004,demo-student-001,practice,completed,2026-07-28T15:52:00.000Z,Biology,Biological Classification,Kingdom Protista,easy,True,True,
+pq-005,demo-student-001,practice,completed,2026-08-02T16:02:00.000Z,Biology,Neural Control and Coordination,Human Neural System,easy,True,True,
+pq-005,demo-student-001,practice,completed,2026-08-02T16:02:00.000Z,Biology,Neural Control and Coordination,Human Neural System,medium,True,False,
+pq-005,demo-student-001,practice,completed,2026-08-02T16:02:00.000Z,Biology,Neural Control and Coordination,Human Neural System,easy,True,True,
+pq-005,demo-student-001,practice,completed,2026-08-02T16:02:00.000Z,Biology,Neural Control and Coordination,Human Neural System,medium,True,False,
+pq-005,demo-student-001,practice,completed,2026-08-02T16:02:00.000Z,Biology,Neural Control and Coordination,Human Neural System,medium,True,False,
+pq-005,demo-student-001,practice,completed,2026-08-02T16:02:00.000Z,Biology,Neural Control and Coordination,Human Neural System,medium,True,True,
+pq-005,demo-student-001,practice,completed,2026-08-02T16:02:00.000Z,Biology,Neural Control and Coordination,Human Neural System,easy,True,True,
+pq-005,demo-student-001,practice,completed,2026-08-02T16:02:00.000Z,Biology,Neural Control and Coordination,Human Neural System,medium,True,True,
+pq-005,demo-student-001,practice,completed,2026-08-02T16:02:00.000Z,Biology,Neural Control and Coordination,Human Neural System,medium,True,False,
+pq-005,demo-student-001,practice,completed,2026-08-02T16:02:00.000Z,Biology,Neural Control and Coordination,Human Neural System,medium,True,False,
+pq-006,demo-student-001,practice,completed,2026-08-03T16:03:00.000Z,Biology,Biological Classification,Kingdom Fungi,hard,True,False,
+pq-006,demo-student-001,practice,completed,2026-08-03T16:03:00.000Z,Biology,Biological Classification,Kingdom Fungi,medium,True,True,
+pq-006,demo-student-001,practice,completed,2026-08-03T16:03:00.000Z,Biology,Biological Classification,Kingdom Fungi,easy,True,True,
+pq-006,demo-student-001,practice,completed,2026-08-03T16:03:00.000Z,Biology,Biological Classification,Kingdom Fungi,hard,True,False,
+pq-006,demo-student-001,practice,completed,2026-08-03T16:03:00.000Z,Biology,Biological Classification,Kingdom Fungi,medium,True,True,
+pq-006,demo-student-001,practice,completed,2026-08-03T16:03:00.000Z,Biology,Biological Classification,Kingdom Fungi,medium,True,True,
+pq-006,demo-student-001,practice,completed,2026-08-03T16:03:00.000Z,Biology,Biological Classification,Kingdom Fungi,medium,True,False,
+pq-006,demo-student-001,practice,completed,2026-08-03T16:03:00.000Z,Biology,Biological Classification,Kingdom Fungi,easy,True,True,
+pq-007,demo-student-001,practice,completed,2026-08-04T15:49:00.000Z,Chemistry,Thermodynamics,Enthalpy,medium,True,True,
+pq-007,demo-student-001,practice,completed,2026-08-04T15:49:00.000Z,Chemistry,Thermodynamics,Enthalpy,hard,True,True,
+pq-007,demo-student-001,practice,completed,2026-08-04T15:49:00.000Z,Chemistry,Thermodynamics,Enthalpy,easy,True,True,
+pq-007,demo-student-001,practice,completed,2026-08-04T15:49:00.000Z,Chemistry,Thermodynamics,Enthalpy,medium,True,True,
+pq-007,demo-student-001,practice,completed,2026-08-04T15:49:00.000Z,Chemistry,Thermodynamics,Enthalpy,easy,True,True,
+pq-007,demo-student-001,practice,completed,2026-08-04T15:49:00.000Z,Chemistry,Thermodynamics,Enthalpy,medium,True,True,
+pq-007,demo-student-001,practice,completed,2026-08-04T15:49:00.000Z,Chemistry,Thermodynamics,Enthalpy,medium,True,True,
+pq-007,demo-student-001,practice,completed,2026-08-04T15:49:00.000Z,Chemistry,Thermodynamics,Enthalpy,easy,True,True,
+pq-007,demo-student-001,practice,completed,2026-08-04T15:49:00.000Z,Chemistry,Thermodynamics,Enthalpy,medium,True,True,
+pq-007,demo-student-001,practice,completed,2026-08-04T15:49:00.000Z,Chemistry,Thermodynamics,Enthalpy,medium,True,False,
+pq-008,demo-student-001,practice,completed,2026-08-05T15:43:00.000Z,Biology,Neural Control and Coordination,Human Neural System,easy,True,False,
+pq-008,demo-student-001,practice,completed,2026-08-05T15:43:00.000Z,Biology,Neural Control and Coordination,Human Neural System,easy,True,False,
+pq-008,demo-student-001,practice,completed,2026-08-05T15:43:00.000Z,Biology,Neural Control and Coordination,Human Neural System,easy,True,False,
+pq-008,demo-student-001,practice,completed,2026-08-05T15:43:00.000Z,Biology,Neural Control and Coordination,Human Neural System,easy,True,True,
+pq-008,demo-student-001,practice,completed,2026-08-05T15:43:00.000Z,Biology,Neural Control and Coordination,Human Neural System,hard,True,True,
+pq-008,demo-student-001,practice,completed,2026-08-05T15:43:00.000Z,Biology,Neural Control and Coordination,Human Neural System,easy,True,False,
+pq-008,demo-student-001,practice,completed,2026-08-05T15:43:00.000Z,Biology,Neural Control and Coordination,Human Neural System,easy,True,False,
+pq-008,demo-student-001,practice,completed,2026-08-05T15:43:00.000Z,Biology,Neural Control and Coordination,Human Neural System,medium,True,False,
+pq-009,demo-student-001,practice,completed,2026-08-06T15:57:00.000Z,Chemistry,Thermodynamics,Enthalpy,medium,True,True,
+pq-009,demo-student-001,practice,completed,2026-08-06T15:57:00.000Z,Chemistry,Thermodynamics,Enthalpy,hard,True,False,
+pq-009,demo-student-001,practice,completed,2026-08-06T15:57:00.000Z,Chemistry,Thermodynamics,Enthalpy,hard,True,False,
+pq-009,demo-student-001,practice,completed,2026-08-06T15:57:00.000Z,Chemistry,Thermodynamics,Enthalpy,easy,True,False,
+pq-009,demo-student-001,practice,completed,2026-08-06T15:57:00.000Z,Chemistry,Thermodynamics,Enthalpy,easy,True,True,
+pq-009,demo-student-001,practice,completed,2026-08-06T15:57:00.000Z,Chemistry,Thermodynamics,Enthalpy,easy,True,True,
+pq-009,demo-student-001,practice,completed,2026-08-06T15:57:00.000Z,Chemistry,Thermodynamics,Enthalpy,easy,True,False,
+pq-009,demo-student-001,practice,completed,2026-08-06T15:57:00.000Z,Chemistry,Thermodynamics,Enthalpy,medium,True,True,
+pq-010,demo-student-001,practice,completed,2026-08-08T15:38:00.000Z,Physics,Laws of Motion,Newton's Second Law,easy,True,True,
+pq-010,demo-student-001,practice,completed,2026-08-08T15:38:00.000Z,Physics,Laws of Motion,Newton's Second Law,easy,True,False,
+pq-010,demo-student-001,practice,completed,2026-08-08T15:38:00.000Z,Physics,Laws of Motion,Newton's Second Law,easy,True,False,
+pq-010,demo-student-001,practice,completed,2026-08-08T15:38:00.000Z,Physics,Laws of Motion,Newton's Second Law,medium,True,False,
+pq-010,demo-student-001,practice,completed,2026-08-08T15:38:00.000Z,Physics,Laws of Motion,Newton's Second Law,hard,True,False,
+pq-010,demo-student-001,practice,completed,2026-08-08T15:38:00.000Z,Physics,Laws of Motion,Newton's Second Law,easy,True,True,
+pq-010,demo-student-001,practice,completed,2026-08-08T15:38:00.000Z,Physics,Laws of Motion,Newton's Second Law,easy,True,False,
+pq-010,demo-student-001,practice,completed,2026-08-08T15:38:00.000Z,Physics,Laws of Motion,Newton's Second Law,easy,True,True,
+pq-010,demo-student-001,practice,completed,2026-08-08T15:38:00.000Z,Physics,Laws of Motion,Newton's Second Law,hard,True,False,
+pq-010,demo-student-001,practice,completed,2026-08-08T15:38:00.000Z,Physics,Laws of Motion,Newton's Second Law,medium,True,False,
+pq-011,demo-student-001,practice,completed,2026-08-31T16:15:00.000Z,Physics,Motion in a Plane,Projectile Motion,medium,True,True,
+pq-011,demo-student-001,practice,completed,2026-08-31T16:15:00.000Z,Physics,Motion in a Plane,Projectile Motion,medium,True,False,
+pq-011,demo-student-001,practice,completed,2026-08-31T16:15:00.000Z,Physics,Motion in a Plane,Projectile Motion,medium,True,True,
+pq-011,demo-student-001,practice,completed,2026-08-31T16:15:00.000Z,Physics,Motion in a Plane,Projectile Motion,hard,True,False,
+pq-011,demo-student-001,practice,completed,2026-08-31T16:15:00.000Z,Physics,Motion in a Plane,Projectile Motion,easy,True,True,
+pq-011,demo-student-001,practice,completed,2026-08-31T16:15:00.000Z,Physics,Motion in a Plane,Projectile Motion,easy,True,False,
+pq-011,demo-student-001,practice,completed,2026-08-31T16:15:00.000Z,Physics,Motion in a Plane,Projectile Motion,easy,True,True,
+pq-011,demo-student-001,practice,completed,2026-08-31T16:15:00.000Z,Physics,Motion in a Plane,Projectile Motion,hard,True,False,
+pq-011,demo-student-001,practice,completed,2026-08-31T16:15:00.000Z,Physics,Motion in a Plane,Projectile Motion,medium,True,False,
+pq-011,demo-student-001,practice,completed,2026-08-31T16:15:00.000Z,Physics,Motion in a Plane,Projectile Motion,medium,True,False,
+pq-012,demo-student-001,practice,completed,2026-09-01T16:21:00.000Z,Physics,Laws of Motion,Newton's Second Law,easy,True,True,
+pq-012,demo-student-001,practice,completed,2026-09-01T16:21:00.000Z,Physics,Laws of Motion,Newton's Second Law,easy,True,True,
+pq-012,demo-student-001,practice,completed,2026-09-01T16:21:00.000Z,Physics,Laws of Motion,Newton's Second Law,medium,True,True,
+pq-012,demo-student-001,practice,completed,2026-09-01T16:21:00.000Z,Physics,Laws of Motion,Newton's Second Law,easy,True,True,
+pq-012,demo-student-001,practice,completed,2026-09-01T16:21:00.000Z,Physics,Laws of Motion,Newton's Second Law,medium,True,False,
+pq-012,demo-student-001,practice,completed,2026-09-01T16:21:00.000Z,Physics,Laws of Motion,Newton's Second Law,medium,True,True,
+pq-012,demo-student-001,practice,completed,2026-09-01T16:21:00.000Z,Physics,Laws of Motion,Newton's Second Law,medium,True,True,
+pq-012,demo-student-001,practice,completed,2026-09-01T16:21:00.000Z,Physics,Laws of Motion,Newton's Second Law,medium,True,False,
+pq-012,demo-student-001,practice,completed,2026-09-01T16:21:00.000Z,Physics,Laws of Motion,Newton's Second Law,easy,True,True,
+pq-012,demo-student-001,practice,completed,2026-09-01T16:21:00.000Z,Physics,Laws of Motion,Newton's Second Law,hard,True,True,
+pq-013,demo-student-001,practice,completed,2026-09-04T15:58:00.000Z,Biology,Biological Classification,Kingdom Fungi,medium,True,True,
+pq-013,demo-student-001,practice,completed,2026-09-04T15:58:00.000Z,Biology,Biological Classification,Kingdom Fungi,medium,True,True,
+pq-013,demo-student-001,practice,completed,2026-09-04T15:58:00.000Z,Biology,Biological Classification,Kingdom Fungi,medium,True,True,
+pq-013,demo-student-001,practice,completed,2026-09-04T15:58:00.000Z,Biology,Biological Classification,Kingdom Fungi,easy,True,True,
+pq-013,demo-student-001,practice,completed,2026-09-04T15:58:00.000Z,Biology,Biological Classification,Kingdom Fungi,hard,True,False,
+pq-013,demo-student-001,practice,completed,2026-09-04T15:58:00.000Z,Biology,Biological Classification,Kingdom Fungi,hard,True,True,
+pq-013,demo-student-001,practice,completed,2026-09-04T15:58:00.000Z,Biology,Biological Classification,Kingdom Fungi,easy,True,True,
+pq-013,demo-student-001,practice,completed,2026-09-04T15:58:00.000Z,Biology,Biological Classification,Kingdom Fungi,medium,True,True,
+pq-013,demo-student-001,practice,completed,2026-09-04T15:58:00.000Z,Biology,Biological Classification,Kingdom Fungi,easy,True,True,
+pq-013,demo-student-001,practice,completed,2026-09-04T15:58:00.000Z,Biology,Biological Classification,Kingdom Fungi,hard,True,False,
+pq-014,demo-student-001,practice,completed,2026-09-05T16:20:00.000Z,Biology,Neural Control and Coordination,Human Neural System,medium,True,False,
+pq-014,demo-student-001,practice,completed,2026-09-05T16:20:00.000Z,Biology,Neural Control and Coordination,Human Neural System,easy,True,True,
+pq-014,demo-student-001,practice,completed,2026-09-05T16:20:00.000Z,Biology,Neural Control and Coordination,Human Neural System,hard,True,False,
+pq-014,demo-student-001,practice,completed,2026-09-05T16:20:00.000Z,Biology,Neural Control and Coordination,Human Neural System,medium,True,True,
+pq-014,demo-student-001,practice,completed,2026-09-05T16:20:00.000Z,Biology,Neural Control and Coordination,Human Neural System,medium,True,False,
+pq-014,demo-student-001,practice,completed,2026-09-05T16:20:00.000Z,Biology,Neural Control and Coordination,Human Neural System,hard,True,False,
+pq-014,demo-student-001,practice,completed,2026-09-05T16:20:00.000Z,Biology,Neural Control and Coordination,Human Neural System,medium,True,True,
+pq-014,demo-student-001,practice,completed,2026-09-05T16:20:00.000Z,Biology,Neural Control and Coordination,Human Neural System,easy,True,False,
+pq-015,demo-student-001,practice,completed,2026-09-13T15:49:00.000Z,Physics,Motion in a Plane,Projectile Motion,medium,True,True,
+pq-015,demo-student-001,practice,completed,2026-09-13T15:49:00.000Z,Physics,Motion in a Plane,Projectile Motion,medium,True,True,
+pq-015,demo-student-001,practice,completed,2026-09-13T15:49:00.000Z,Physics,Motion in a Plane,Projectile Motion,hard,True,False,
+pq-015,demo-student-001,practice,completed,2026-09-13T15:49:00.000Z,Physics,Motion in a Plane,Projectile Motion,easy,True,True,
+pq-015,demo-student-001,practice,completed,2026-09-13T15:49:00.000Z,Physics,Motion in a Plane,Projectile Motion,easy,True,True,
+pq-015,demo-student-001,practice,completed,2026-09-13T15:49:00.000Z,Physics,Motion in a Plane,Projectile Motion,hard,True,False,
+pq-015,demo-student-001,practice,completed,2026-09-13T15:49:00.000Z,Physics,Motion in a Plane,Projectile Motion,medium,True,True,
+pq-015,demo-student-001,practice,completed,2026-09-13T15:49:00.000Z,Physics,Motion in a Plane,Projectile Motion,easy,True,True,
+pq-015,demo-student-001,practice,completed,2026-09-13T15:49:00.000Z,Physics,Motion in a Plane,Projectile Motion,medium,True,True,
+pq-015,demo-student-001,practice,completed,2026-09-13T15:49:00.000Z,Physics,Motion in a Plane,Projectile Motion,hard,True,True,
+pq-016,demo-student-001,practice,completed,2026-09-19T15:33:00.000Z,Biology,Neural Control and Coordination,Human Neural System,medium,True,False,
+pq-016,demo-student-001,practice,completed,2026-09-19T15:33:00.000Z,Biology,Neural Control and Coordination,Human Neural System,easy,True,True,
+pq-016,demo-student-001,practice,completed,2026-09-19T15:33:00.000Z,Biology,Neural Control and Coordination,Human Neural System,medium,True,False,
+pq-016,demo-student-001,practice,completed,2026-09-19T15:33:00.000Z,Biology,Neural Control and Coordination,Human Neural System,easy,True,True,
+pq-016,demo-student-001,practice,completed,2026-09-19T15:33:00.000Z,Biology,Neural Control and Coordination,Human Neural System,easy,True,False,
+pq-016,demo-student-001,practice,completed,2026-09-19T15:33:00.000Z,Biology,Neural Control and Coordination,Human Neural System,medium,True,True,
+pq-016,demo-student-001,practice,completed,2026-09-19T15:33:00.000Z,Biology,Neural Control and Coordination,Human Neural System,medium,True,False,
+pq-016,demo-student-001,practice,completed,2026-09-19T15:33:00.000Z,Biology,Neural Control and Coordination,Human Neural System,medium,True,False,
+pq-016,demo-student-001,practice,completed,2026-09-19T15:33:00.000Z,Biology,Neural Control and Coordination,Human Neural System,easy,True,False,
+pq-016,demo-student-001,practice,completed,2026-09-19T15:33:00.000Z,Biology,Neural Control and Coordination,Human Neural System,medium,True,False,
+pq-017,demo-student-001,practice,completed,2026-09-21T16:14:00.000Z,Physics,Laws of Motion,Newton's Second Law,hard,True,False,
+pq-017,demo-student-001,practice,completed,2026-09-21T16:14:00.000Z,Physics,Laws of Motion,Newton's Second Law,easy,True,True,
+pq-017,demo-student-001,practice,completed,2026-09-21T16:14:00.000Z,Physics,Laws of Motion,Newton's Second Law,medium,True,True,
+pq-017,demo-student-001,practice,completed,2026-09-21T16:14:00.000Z,Physics,Laws of Motion,Newton's Second Law,medium,True,False,
+pq-017,demo-student-001,practice,completed,2026-09-21T16:14:00.000Z,Physics,Laws of Motion,Newton's Second Law,medium,True,True,
+pq-017,demo-student-001,practice,completed,2026-09-21T16:14:00.000Z,Physics,Laws of Motion,Newton's Second Law,medium,True,True,
+pq-017,demo-student-001,practice,completed,2026-09-21T16:14:00.000Z,Physics,Laws of Motion,Newton's Second Law,easy,True,True,
+pq-017,demo-student-001,practice,completed,2026-09-21T16:14:00.000Z,Physics,Laws of Motion,Newton's Second Law,medium,True,True,
+pq-017,demo-student-001,practice,completed,2026-09-21T16:14:00.000Z,Physics,Laws of Motion,Newton's Second Law,easy,True,False,
+pq-017,demo-student-001,practice,completed,2026-09-21T16:14:00.000Z,Physics,Laws of Motion,Newton's Second Law,easy,True,True,
+pq-018,demo-student-001,practice,completed,2026-09-22T16:15:00.000Z,Biology,Neural Control and Coordination,Human Neural System,easy,True,False,
+pq-018,demo-student-001,practice,completed,2026-09-22T16:15:00.000Z,Biology,Neural Control and Coordination,Human Neural System,easy,True,False,
+pq-018,demo-student-001,practice,completed,2026-09-22T16:15:00.000Z,Biology,Neural Control and Coordination,Human Neural System,hard,True,False,
+pq-018,demo-student-001,practice,completed,2026-09-22T16:15:00.000Z,Biology,Neural Control and Coordination,Human Neural System,medium,True,False,
+pq-018,demo-student-001,practice,completed,2026-09-22T16:15:00.000Z,Biology,Neural Control and Coordination,Human Neural System,medium,True,True,
+pq-018,demo-student-001,practice,completed,2026-09-22T16:15:00.000Z,Biology,Neural Control and Coordination,Human Neural System,medium,True,False,
+pq-018,demo-student-001,practice,completed,2026-09-22T16:15:00.000Z,Biology,Neural Control and Coordination,Human Neural System,medium,True,False,
+pq-018,demo-student-001,practice,completed,2026-09-22T16:15:00.000Z,Biology,Neural Control and Coordination,Human Neural System,easy,True,True,
+pq-019,demo-student-001,practice,completed,2026-09-24T16:18:00.000Z,Chemistry,Thermodynamics,Enthalpy,easy,True,False,
+pq-019,demo-student-001,practice,completed,2026-09-24T16:18:00.000Z,Chemistry,Thermodynamics,Enthalpy,medium,True,False,
+pq-019,demo-student-001,practice,completed,2026-09-24T16:18:00.000Z,Chemistry,Thermodynamics,Enthalpy,medium,True,False,
+pq-019,demo-student-001,practice,completed,2026-09-24T16:18:00.000Z,Chemistry,Thermodynamics,Enthalpy,medium,True,False,
+pq-019,demo-student-001,practice,completed,2026-09-24T16:18:00.000Z,Chemistry,Thermodynamics,Enthalpy,easy,True,False,
+pq-019,demo-student-001,practice,completed,2026-09-24T16:18:00.000Z,Chemistry,Thermodynamics,Enthalpy,medium,True,False,
+pq-019,demo-student-001,practice,completed,2026-09-24T16:18:00.000Z,Chemistry,Thermodynamics,Enthalpy,hard,True,True,
+pq-019,demo-student-001,practice,completed,2026-09-24T16:18:00.000Z,Chemistry,Thermodynamics,Enthalpy,easy,True,False,
+pq-020,demo-student-001,practice,completed,2026-09-25T16:11:00.000Z,Biology,Biological Classification,Kingdom Protista,easy,True,False,
+pq-020,demo-student-001,practice,completed,2026-09-25T16:11:00.000Z,Biology,Biological Classification,Kingdom Protista,easy,True,True,
+pq-020,demo-student-001,practice,completed,2026-09-25T16:11:00.000Z,Biology,Biological Classification,Kingdom Protista,medium,True,False,
+pq-020,demo-student-001,practice,completed,2026-09-25T16:11:00.000Z,Biology,Biological Classification,Kingdom Protista,easy,True,True,
+pq-020,demo-student-001,practice,completed,2026-09-25T16:11:00.000Z,Biology,Biological Classification,Kingdom Protista,easy,True,True,
+pq-020,demo-student-001,practice,completed,2026-09-25T16:11:00.000Z,Biology,Biological Classification,Kingdom Protista,easy,True,True,
+pq-020,demo-student-001,practice,completed,2026-09-25T16:11:00.000Z,Biology,Biological Classification,Kingdom Protista,medium,True,True,
+pq-020,demo-student-001,practice,completed,2026-09-25T16:11:00.000Z,Biology,Biological Classification,Kingdom Protista,medium,True,False,
+pq-020,demo-student-001,practice,completed,2026-09-25T16:11:00.000Z,Biology,Biological Classification,Kingdom Protista,hard,True,True,
+pq-020,demo-student-001,practice,completed,2026-09-25T16:11:00.000Z,Biology,Biological Classification,Kingdom Protista,medium,True,True,
+pq-021,demo-student-001,practice,completed,2026-10-03T15:40:00.000Z,Biology,Neural Control and Coordination,Reflex Action,easy,True,True,
+pq-021,demo-student-001,practice,completed,2026-10-03T15:40:00.000Z,Biology,Neural Control and Coordination,Reflex Action,medium,True,False,
+pq-021,demo-student-001,practice,completed,2026-10-03T15:40:00.000Z,Biology,Neural Control and Coordination,Reflex Action,medium,True,False,
+pq-021,demo-student-001,practice,completed,2026-10-03T15:40:00.000Z,Biology,Neural Control and Coordination,Reflex Action,medium,True,False,
+pq-021,demo-student-001,practice,completed,2026-10-03T15:40:00.000Z,Biology,Neural Control and Coordination,Reflex Action,easy,True,True,
+pq-021,demo-student-001,practice,completed,2026-10-03T15:40:00.000Z,Biology,Neural Control and Coordination,Reflex Action,easy,True,True,
+pq-021,demo-student-001,practice,completed,2026-10-03T15:40:00.000Z,Biology,Neural Control and Coordination,Reflex Action,easy,True,True,
+pq-021,demo-student-001,practice,completed,2026-10-03T15:40:00.000Z,Biology,Neural Control and Coordination,Reflex Action,medium,True,False,
+pq-022,demo-student-001,practice,completed,2026-10-05T15:50:00.000Z,Physics,Motion in a Plane,Projectile Motion,easy,True,True,
+pq-022,demo-student-001,practice,completed,2026-10-05T15:50:00.000Z,Physics,Motion in a Plane,Projectile Motion,medium,True,True,
+pq-022,demo-student-001,practice,completed,2026-10-05T15:50:00.000Z,Physics,Motion in a Plane,Projectile Motion,medium,True,True,
+pq-022,demo-student-001,practice,completed,2026-10-05T15:50:00.000Z,Physics,Motion in a Plane,Projectile Motion,medium,True,True,
+pq-022,demo-student-001,practice,completed,2026-10-05T15:50:00.000Z,Physics,Motion in a Plane,Projectile Motion,medium,True,True,
+pq-022,demo-student-001,practice,completed,2026-10-05T15:50:00.000Z,Physics,Motion in a Plane,Projectile Motion,easy,True,True,
+pq-022,demo-student-001,practice,completed,2026-10-05T15:50:00.000Z,Physics,Motion in a Plane,Projectile Motion,easy,True,True,
+pq-022,demo-student-001,practice,completed,2026-10-05T15:50:00.000Z,Physics,Motion in a Plane,Projectile Motion,medium,True,False,
+pq-023,demo-student-001,practice,completed,2026-10-06T16:29:00.000Z,Biology,Biological Classification,Kingdom Protista,medium,True,True,
+pq-023,demo-student-001,practice,completed,2026-10-06T16:29:00.000Z,Biology,Biological Classification,Kingdom Protista,hard,True,True,
+pq-023,demo-student-001,practice,completed,2026-10-06T16:29:00.000Z,Biology,Biological Classification,Kingdom Protista,easy,True,True,
+pq-023,demo-student-001,practice,completed,2026-10-06T16:29:00.000Z,Biology,Biological Classification,Kingdom Protista,medium,True,True,
+pq-023,demo-student-001,practice,completed,2026-10-06T16:29:00.000Z,Biology,Biological Classification,Kingdom Protista,medium,True,True,
+pq-023,demo-student-001,practice,completed,2026-10-06T16:29:00.000Z,Biology,Biological Classification,Kingdom Protista,easy,True,True,
+pq-023,demo-student-001,practice,completed,2026-10-06T16:29:00.000Z,Biology,Biological Classification,Kingdom Protista,easy,True,True,
+pq-023,demo-student-001,practice,completed,2026-10-06T16:29:00.000Z,Biology,Biological Classification,Kingdom Protista,medium,True,True,
+pq-023,demo-student-001,practice,completed,2026-10-06T16:29:00.000Z,Biology,Biological Classification,Kingdom Protista,easy,True,True,
+pq-023,demo-student-001,practice,completed,2026-10-06T16:29:00.000Z,Biology,Biological Classification,Kingdom Protista,medium,True,True,
+pq-024,demo-student-001,practice,completed,2026-09-12T14:30:00.000Z,Biology,Plant Kingdom,Algae,easy,True,False,
+pq-024,demo-student-001,practice,completed,2026-09-12T14:30:00.000Z,Biology,Plant Kingdom,Algae,medium,True,False,
+pq-024,demo-student-001,practice,completed,2026-09-12T14:30:00.000Z,Biology,Plant Kingdom,Algae,medium,True,False,
+pq-024,demo-student-001,practice,completed,2026-09-12T14:30:00.000Z,Biology,Plant Kingdom,Algae,easy,True,True,
+pq-025,demo-student-001,practice,in_progress,2026-10-07T16:30:00.000Z,Chemistry,Thermodynamics,Enthalpy,easy,True,True,
+pq-025,demo-student-001,practice,in_progress,2026-10-07T16:30:00.000Z,Chemistry,Thermodynamics,Enthalpy,easy,True,True,
+pq-025,demo-student-001,practice,in_progress,2026-10-07T16:30:00.000Z,Chemistry,Thermodynamics,Enthalpy,easy,True,False,
+as-01,demo-student-001,assessment,completed,2026-07-20T05:30:00.000Z,Biology,Biological Classification,Kingdom Fungi,easy,True,True,77.8
+as-01,demo-student-001,assessment,completed,2026-07-20T05:30:00.000Z,Biology,Neural Control and Coordination,Human Neural System,easy,True,True,32.8
+as-01,demo-student-001,assessment,completed,2026-07-20T05:30:00.000Z,Biology,Neural Control and Coordination,Reflex Action,hard,True,True,50.4
+as-01,demo-student-001,assessment,completed,2026-07-20T05:30:00.000Z,Chemistry,Structure of Atom,Subatomic Particles,medium,True,False,67.9
+as-01,demo-student-001,assessment,completed,2026-07-20T05:30:00.000Z,Chemistry,Structure of Atom,Bohr's Model,medium,True,False,50.3
+as-01,demo-student-001,assessment,completed,2026-07-20T05:30:00.000Z,Chemistry,Thermodynamics,Enthalpy,medium,True,False,83.9
+as-01,demo-student-001,assessment,completed,2026-07-20T05:30:00.000Z,Physics,Motion in a Plane,Projectile Motion,medium,True,False,45.6
+as-01,demo-student-001,assessment,completed,2026-07-20T05:30:00.000Z,Physics,Laws of Motion,Newton's Second Law,medium,True,True,67.3
+as-01,demo-student-001,assessment,completed,2026-07-20T05:30:00.000Z,Physics,Waves,Wave Speed,medium,True,True,74.5
+as-01,demo-student-001,assessment,completed,2026-07-20T05:30:00.000Z,Biology,Biological Classification,Kingdom Protista,easy,True,True,63.1
+as-01,demo-student-001,assessment,completed,2026-07-20T05:30:00.000Z,Biology,Biological Classification,Kingdom Fungi,medium,True,True,51.9
+as-01,demo-student-001,assessment,completed,2026-07-20T05:30:00.000Z,Biology,Neural Control and Coordination,Human Neural System,hard,True,False,153.3
+as-01,demo-student-001,assessment,completed,2026-07-20T05:30:00.000Z,Biology,Neural Control and Coordination,Reflex Action,medium,True,True,46.5
+as-01,demo-student-001,assessment,completed,2026-07-20T05:30:00.000Z,Chemistry,Structure of Atom,Subatomic Particles,easy,True,True,64.3
+as-01,demo-student-001,assessment,completed,2026-07-20T05:30:00.000Z,Chemistry,Structure of Atom,Bohr's Model,easy,True,True,46.2
+as-01,demo-student-001,assessment,completed,2026-07-20T05:30:00.000Z,Chemistry,Thermodynamics,Enthalpy,medium,True,True,44.8
+as-01,demo-student-001,assessment,completed,2026-07-20T05:30:00.000Z,Physics,Motion in a Plane,Projectile Motion,hard,True,False,187.1
+as-01,demo-student-001,assessment,completed,2026-07-20T05:30:00.000Z,Physics,Laws of Motion,Newton's Second Law,hard,True,False,87.8
+as-01,demo-student-001,assessment,completed,2026-07-20T05:30:00.000Z,Physics,Waves,Wave Speed,easy,False,False,71.0
+as-01,demo-student-001,assessment,completed,2026-07-20T05:30:00.000Z,Biology,Biological Classification,Kingdom Protista,medium,False,False,104.8
+as-02,demo-student-001,assessment,completed,2026-08-05T05:30:00.000Z,Biology,Neural Control and Coordination,Human Neural System,hard,True,False,111.6
+as-02,demo-student-001,assessment,completed,2026-08-05T05:30:00.000Z,Biology,Neural Control and Coordination,Reflex Action,medium,True,False,139.1
+as-02,demo-student-001,assessment,completed,2026-08-05T05:30:00.000Z,Chemistry,Structure of Atom,Subatomic Particles,medium,True,True,52.3
+as-02,demo-student-001,assessment,completed,2026-08-05T05:30:00.000Z,Chemistry,Structure of Atom,Bohr's Model,medium,True,False,39.8
+as-02,demo-student-001,assessment,completed,2026-08-05T05:30:00.000Z,Chemistry,Thermodynamics,Enthalpy,hard,True,False,111.3
+as-02,demo-student-001,assessment,completed,2026-08-05T05:30:00.000Z,Physics,Motion in a Plane,Projectile Motion,medium,True,False,89.8
+as-02,demo-student-001,assessment,completed,2026-08-05T05:30:00.000Z,Physics,Laws of Motion,Newton's Second Law,medium,True,True,92.4
+as-02,demo-student-001,assessment,completed,2026-08-05T05:30:00.000Z,Physics,Waves,Wave Speed,medium,True,True,79.5
+as-02,demo-student-001,assessment,completed,2026-08-05T05:30:00.000Z,Biology,Biological Classification,Kingdom Protista,medium,True,True,114.1
+as-02,demo-student-001,assessment,completed,2026-08-05T05:30:00.000Z,Biology,Biological Classification,Kingdom Fungi,easy,True,True,53.1
+as-02,demo-student-001,assessment,completed,2026-08-05T05:30:00.000Z,Biology,Neural Control and Coordination,Human Neural System,easy,True,True,20.3
+as-02,demo-student-001,assessment,completed,2026-08-05T05:30:00.000Z,Biology,Neural Control and Coordination,Reflex Action,easy,True,True,20.1
+as-02,demo-student-001,assessment,completed,2026-08-05T05:30:00.000Z,Chemistry,Structure of Atom,Subatomic Particles,easy,True,True,24.0
+as-02,demo-student-001,assessment,completed,2026-08-05T05:30:00.000Z,Chemistry,Structure of Atom,Bohr's Model,hard,True,False,209.4
+as-02,demo-student-001,assessment,completed,2026-08-05T05:30:00.000Z,Chemistry,Thermodynamics,Enthalpy,easy,True,False,37.3
+as-02,demo-student-001,assessment,completed,2026-08-05T05:30:00.000Z,Physics,Motion in a Plane,Projectile Motion,medium,True,True,49.9
+as-02,demo-student-001,assessment,completed,2026-08-05T05:30:00.000Z,Physics,Laws of Motion,Newton's Second Law,hard,True,True,73.5
+as-02,demo-student-001,assessment,completed,2026-08-05T05:30:00.000Z,Physics,Waves,Wave Speed,easy,True,True,42.6
+as-02,demo-student-001,assessment,completed,2026-08-05T05:30:00.000Z,Biology,Biological Classification,Kingdom Protista,medium,True,True,117.2
+as-02,demo-student-001,assessment,completed,2026-08-05T05:30:00.000Z,Biology,Biological Classification,Kingdom Fungi,easy,True,False,34.9
+as-03,demo-student-001,assessment,completed,2026-09-01T05:30:00.000Z,Biology,Neural Control and Coordination,Reflex Action,medium,True,True,32.7
+as-03,demo-student-001,assessment,completed,2026-09-01T05:30:00.000Z,Chemistry,Structure of Atom,Subatomic Particles,easy,True,True,23.6
+as-03,demo-student-001,assessment,completed,2026-09-01T05:30:00.000Z,Chemistry,Structure of Atom,Bohr's Model,easy,True,True,20.6
+as-03,demo-student-001,assessment,completed,2026-09-01T05:30:00.000Z,Chemistry,Thermodynamics,Enthalpy,hard,True,False,108.3
+as-03,demo-student-001,assessment,completed,2026-09-01T05:30:00.000Z,Physics,Motion in a Plane,Projectile Motion,medium,True,True,66.4
+as-03,demo-student-001,assessment,completed,2026-09-01T05:30:00.000Z,Physics,Laws of Motion,Newton's Second Law,hard,True,True,85.0
+as-03,demo-student-001,assessment,completed,2026-09-01T05:30:00.000Z,Physics,Waves,Wave Speed,medium,True,True,92.9
+as-03,demo-student-001,assessment,completed,2026-09-01T05:30:00.000Z,Biology,Biological Classification,Kingdom Protista,easy,True,True,27.7
+as-03,demo-student-001,assessment,completed,2026-09-01T05:30:00.000Z,Biology,Biological Classification,Kingdom Fungi,medium,False,False,81.1
+as-03,demo-student-001,assessment,completed,2026-09-01T05:30:00.000Z,Biology,Neural Control and Coordination,Human Neural System,easy,True,True,32.8
+as-03,demo-student-001,assessment,completed,2026-09-01T05:30:00.000Z,Biology,Neural Control and Coordination,Reflex Action,hard,True,True,84.8
+as-03,demo-student-001,assessment,completed,2026-09-01T05:30:00.000Z,Chemistry,Structure of Atom,Subatomic Particles,easy,True,True,44.6
+as-03,demo-student-001,assessment,completed,2026-09-01T05:30:00.000Z,Chemistry,Structure of Atom,Bohr's Model,hard,True,False,130.7
+as-03,demo-student-001,assessment,completed,2026-09-01T05:30:00.000Z,Chemistry,Thermodynamics,Enthalpy,medium,True,False,107.3
+as-03,demo-student-001,assessment,completed,2026-09-01T05:30:00.000Z,Physics,Motion in a Plane,Projectile Motion,easy,True,True,49.6
+as-03,demo-student-001,assessment,completed,2026-09-01T05:30:00.000Z,Physics,Laws of Motion,Newton's Second Law,hard,True,False,101.5
+as-03,demo-student-001,assessment,completed,2026-09-01T05:30:00.000Z,Physics,Waves,Wave Speed,easy,True,True,25.4
+as-03,demo-student-001,assessment,completed,2026-09-01T05:30:00.000Z,Biology,Biological Classification,Kingdom Protista,medium,True,True,77.9
+as-03,demo-student-001,assessment,completed,2026-09-01T05:30:00.000Z,Biology,Biological Classification,Kingdom Fungi,hard,True,True,53.6
+as-03,demo-student-001,assessment,completed,2026-09-01T05:30:00.000Z,Biology,Neural Control and Coordination,Human Neural System,medium,True,False,24.5
+as-04,demo-student-001,assessment,completed,2026-09-25T05:30:00.000Z,Chemistry,Structure of Atom,Subatomic Particles,medium,True,True,68.1
+as-04,demo-student-001,assessment,completed,2026-09-25T05:30:00.000Z,Chemistry,Structure of Atom,Bohr's Model,medium,True,True,66.4
+as-04,demo-student-001,assessment,completed,2026-09-25T05:30:00.000Z,Chemistry,Thermodynamics,Enthalpy,hard,True,False,88.8
+as-04,demo-student-001,assessment,completed,2026-09-25T05:30:00.000Z,Physics,Motion in a Plane,Projectile Motion,easy,True,True,30.5
+as-04,demo-student-001,assessment,completed,2026-09-25T05:30:00.000Z,Physics,Laws of Motion,Newton's Second Law,medium,True,False,71.2
+as-04,demo-student-001,assessment,completed,2026-09-25T05:30:00.000Z,Physics,Waves,Wave Speed,easy,True,True,27.2
+as-04,demo-student-001,assessment,completed,2026-09-25T05:30:00.000Z,Biology,Biological Classification,Kingdom Protista,medium,True,True,60.9
+as-04,demo-student-001,assessment,completed,2026-09-25T05:30:00.000Z,Biology,Biological Classification,Kingdom Fungi,medium,True,True,32.3
+as-04,demo-student-001,assessment,completed,2026-09-25T05:30:00.000Z,Biology,Neural Control and Coordination,Human Neural System,easy,True,False,18.2
+as-04,demo-student-001,assessment,completed,2026-09-25T05:30:00.000Z,Biology,Neural Control and Coordination,Reflex Action,hard,True,True,57.0
+as-04,demo-student-001,assessment,completed,2026-09-25T05:30:00.000Z,Chemistry,Structure of Atom,Subatomic Particles,easy,True,True,42.6
+as-04,demo-student-001,assessment,completed,2026-09-25T05:30:00.000Z,Chemistry,Structure of Atom,Bohr's Model,hard,True,False,82.3
+as-04,demo-student-001,assessment,completed,2026-09-25T05:30:00.000Z,Chemistry,Thermodynamics,Enthalpy,medium,True,True,63.9
+as-04,demo-student-001,assessment,completed,2026-09-25T05:30:00.000Z,Physics,Motion in a Plane,Projectile Motion,easy,True,True,24.1
+as-04,demo-student-001,assessment,completed,2026-09-25T05:30:00.000Z,Physics,Laws of Motion,Newton's Second Law,easy,True,True,23.4
+as-04,demo-student-001,assessment,completed,2026-09-25T05:30:00.000Z,Physics,Waves,Wave Speed,medium,True,False,55.5
+as-04,demo-student-001,assessment,completed,2026-09-25T05:30:00.000Z,Biology,Biological Classification,Kingdom Protista,medium,True,True,71.4
+as-04,demo-student-001,assessment,completed,2026-09-25T05:30:00.000Z,Biology,Biological Classification,Kingdom Fungi,easy,True,True,36.7
+as-04,demo-student-001,assessment,completed,2026-09-25T05:30:00.000Z,Biology,Neural Control and Coordination,Human Neural System,easy,True,True,17.4
+as-04,demo-student-001,assessment,completed,2026-09-25T05:30:00.000Z,Biology,Neural Control and Coordination,Reflex Action,easy,True,False,63.7

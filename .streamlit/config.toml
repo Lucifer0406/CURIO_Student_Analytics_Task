@@ -1,0 +1,39 @@
+# "Tokyo neon" palette: background #271e33 · teal #7db2c0 · rose #ae415e · indigo #445080 · periwinkle #596eb1
+# Hierarchy: teal = primary/interactive · rose = attention · periwinkle = secondary · indigo = quiet structure.
+# Chart marks use chart-safe steps of the same hues - see src/charts.py.
+
+[theme]
+base = "dark"
+backgroundColor = "#271e33"          # page (palette background)
+secondaryBackgroundColor = "#2e2638" # inputs, expanders (one step lighter than the page)
+textColor = "#ede9f2"
+primaryColor = "#7db2c0"             # teal: buttons, selections, focus
+borderColor = "#443b51"
+dataframeBorderColor = "#3a3147"
+dataframeHeaderBackgroundColor = "#2e2638"
+showWidgetBorder = true
+linkColor = "#7db2c0"
+baseRadius = "10px"
+buttonRadius = "8px"
+
+# Basic colour slots, remapped so alerts, deltas and info boxes stay in the palette
+greenColor = "#7db2c0"               # good / positive delta -> teal
+redColor = "#ce5976"                 # attention / negative delta -> rose
+blueColor = "#596eb1"                # info -> periwinkle
+violetColor = "#596eb1"
+grayColor = "#90889c"
+
+font = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap, sans-serif"
+headingFont = "JetBrains Mono:https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500;700&display=swap, monospace"
+headingFontWeights = [700, 600, 600, 600, 600, 600]
+metricValueFontWeight = 600
+
+chartCategoricalColors = ["#10a3bf", "#ce5976", "#465dad"]
+
+[theme.sidebar]
+backgroundColor = "#1c1625"          # one step darker than the page
+secondaryBackgroundColor = "#271e33"
+borderColor = "#3a3147"
+
+[client]
+toolbarMode = "minimal"

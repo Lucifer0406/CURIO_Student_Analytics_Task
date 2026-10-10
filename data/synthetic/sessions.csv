@@ -1,0 +1,123 @@
+session_id,student_id,kind,activity,start,end,duration_sec
+ls-0001,demo-student-001,learning,Reflex Action,2026-07-02T13:17:00.000Z,2026-07-02T13:42:07.000Z,1508
+ls-0002,demo-student-001,learning,Kingdom Fungi,2026-07-02T14:10:07.000Z,2026-07-02T14:26:48.000Z,1001
+ls-0003,demo-student-001,learning,Projectile Motion,2026-07-02T14:34:48.000Z,2026-07-02T15:00:19.000Z,1531
+ts-0004,demo-student-001,tool,stickyNotes,2026-07-02T15:08:19.000Z,2026-07-02T15:16:23.000Z,484
+ls-0005,demo-student-001,learning,Reflex Action,2026-07-05T10:59:00.000Z,2026-07-05T11:18:02.000Z,1142
+ls-0006,demo-student-001,learning,Enthalpy,2026-07-05T11:31:02.000Z,2026-07-05T11:39:38.000Z,516
+ls-0007,demo-student-001,learning,Kingdom Protista,2026-07-05T11:54:38.000Z,2026-07-05T12:04:57.000Z,619
+ls-0008,demo-student-001,learning,Human Neural System,2026-07-09T14:59:00.000Z,2026-07-09T15:37:17.000Z,2298
+ls-0009,demo-student-001,learning,Projectile Motion,2026-07-09T15:51:17.000Z,2026-07-09T16:03:50.000Z,752
+ls-0010,demo-student-001,learning,Human Neural System,2026-07-09T16:35:50.000Z,2026-07-09T16:48:16.000Z,746
+ls-0011,demo-student-001,learning,Human Neural System,2026-07-10T15:12:00.000Z,2026-07-10T15:34:31.000Z,1351
+ls-0012,demo-student-001,learning,Projectile Motion,2026-07-11T10:31:00.000Z,2026-07-11T10:53:28.000Z,1348
+ls-0013,demo-student-001,learning,Bohr's Model,2026-07-11T11:08:28.000Z,2026-07-11T11:26:12.000Z,1065
+ls-0014,demo-student-001,learning,Kingdom Protista,2026-07-11T11:52:12.000Z,2026-07-11T12:14:05.000Z,1313
+ls-0015,demo-student-001,learning,Kingdom Fungi,2026-07-15T10:41:00.000Z,2026-07-15T11:22:34.000Z,2494
+ts-0016,demo-student-001,tool,studyBuddy,2026-07-15T11:33:34.000Z,2026-07-15T11:38:09.000Z,275
+ls-0017,demo-student-001,learning,Bohr's Model,2026-07-16T15:04:00.000Z,2026-07-16T15:21:53.000Z,1074
+ls-0018,demo-student-001,learning,Wave Speed,2026-07-16T15:38:53.000Z,2026-07-16T15:50:55.000Z,722
+ts-0019,demo-student-001,tool,stickyNotes,2026-07-16T16:11:55.000Z,2026-07-16T16:38:26.000Z,1591
+ls-0020,demo-student-001,learning,Bohr's Model,2026-07-17T13:59:00.000Z,2026-07-17T14:05:53.000Z,413
+ls-0021,demo-student-001,learning,Human Neural System,2026-07-17T14:42:53.000Z,2026-07-17T14:56:12.000Z,799
+ls-0022,demo-student-001,learning,Projectile Motion,2026-07-18T12:47:00.000Z,2026-07-18T13:08:38.000Z,1298
+ls-0023,demo-student-001,learning,Enthalpy,2026-07-22T10:48:00.000Z,2026-07-22T11:07:28.000Z,1168
+ls-0024,demo-student-001,learning,Newton's Second Law,2026-07-26T13:49:00.000Z,2026-07-26T14:00:03.000Z,664
+ls-0025,demo-student-001,learning,Projectile Motion,2026-07-27T11:02:00.000Z,2026-07-27T11:32:24.000Z,1825
+ls-0026,demo-student-001,learning,Wave Speed,2026-07-27T12:10:24.000Z,2026-07-27T12:34:39.000Z,1455
+ls-0027,demo-student-001,learning,Kingdom Fungi,2026-07-28T14:45:00.000Z,2026-07-28T15:00:55.000Z,956
+ls-0028,demo-student-001,learning,Reflex Action,2026-07-28T15:37:55.000Z,2026-07-28T15:48:29.000Z,633
+ls-0029,demo-student-001,learning,Projectile Motion,2026-07-28T15:58:29.000Z,2026-07-28T16:20:09.000Z,1300
+ls-0030,demo-student-001,learning,Projectile Motion,2026-07-29T11:01:00.000Z,2026-07-29T11:17:17.000Z,977
+ls-0031,demo-student-001,learning,Human Neural System,2026-07-29T11:33:17.000Z,2026-07-29T11:58:04.000Z,1487
+ts-0032,demo-student-001,tool,studyBuddy,2026-07-29T12:28:04.000Z,2026-07-29T12:31:54.000Z,230
+ls-0033,demo-student-001,learning,Projectile Motion,2026-08-02T14:44:00.000Z,2026-08-02T15:02:16.000Z,1097
+ts-0034,demo-student-001,tool,studyBuddy,2026-08-02T15:11:16.000Z,2026-08-02T15:30:30.000Z,1154
+ls-0035,demo-student-001,learning,Human Neural System,2026-08-03T14:32:00.000Z,2026-08-03T14:59:35.000Z,1655
+ls-0036,demo-student-001,learning,Kingdom Protista,2026-08-04T14:56:00.000Z,2026-08-04T15:36:25.000Z,2426
+ls-0037,demo-student-001,learning,Subatomic Particles,2026-08-05T11:28:00.000Z,2026-08-05T11:41:07.000Z,787
+ts-0038,demo-student-001,tool,studyBuddy,2026-08-05T12:12:07.000Z,2026-08-05T12:18:39.000Z,393
+ls-0039,demo-student-001,learning,Kingdom Protista,2026-08-06T11:12:00.000Z,2026-08-06T11:27:41.000Z,942
+ts-0040,demo-student-001,tool,studyBuddy,2026-08-06T11:57:41.000Z,2026-08-06T12:12:18.000Z,876
+ls-0041,demo-student-001,learning,Human Neural System,2026-08-07T13:48:00.000Z,2026-08-07T14:02:07.000Z,847
+ls-0042,demo-student-001,learning,Subatomic Particles,2026-08-07T14:24:07.000Z,2026-08-07T14:45:58.000Z,1311
+ls-0043,demo-student-001,learning,Kingdom Protista,2026-08-07T14:50:58.000Z,2026-08-07T15:11:53.000Z,1256
+ls-0044,demo-student-001,learning,Newton's Second Law,2026-08-08T12:39:00.000Z,2026-08-08T12:56:19.000Z,1039
+ls-0045,demo-student-001,learning,Projectile Motion,2026-08-08T13:16:19.000Z,2026-08-08T13:39:44.000Z,1405
+ts-0046,demo-student-001,tool,whiteboard,2026-08-08T14:00:44.000Z,2026-08-08T14:05:54.000Z,310
+ls-0047,demo-student-001,learning,Subatomic Particles,2026-08-25T13:57:00.000Z,2026-08-25T14:08:45.000Z,705
+ls-0048,demo-student-001,learning,Human Neural System,2026-08-28T14:47:00.000Z,2026-08-28T15:22:04.000Z,2105
+ls-0049,demo-student-001,learning,Newton's Second Law,2026-08-28T15:30:04.000Z,2026-08-28T15:39:41.000Z,576
+ts-0050,demo-student-001,tool,stickyNotes,2026-08-28T16:06:41.000Z,2026-08-28T16:10:22.000Z,222
+ls-0051,demo-student-001,learning,Kingdom Protista,2026-08-31T14:20:00.000Z,2026-08-31T14:31:08.000Z,668
+ls-0052,demo-student-001,learning,Kingdom Fungi,2026-08-31T14:52:08.000Z,2026-08-31T15:39:36.000Z,2848
+ls-0053,demo-student-001,learning,Human Neural System,2026-08-31T16:04:36.000Z,2026-08-31T16:22:17.000Z,1061
+ts-0054,demo-student-001,tool,stickyNotes,2026-08-31T16:59:17.000Z,2026-08-31T17:05:40.000Z,383
+ls-0055,demo-student-001,learning,Kingdom Protista,2026-09-01T12:39:00.000Z,2026-09-01T12:56:30.000Z,1050
+ls-0056,demo-student-001,learning,Kingdom Fungi,2026-09-01T13:05:30.000Z,2026-09-01T13:20:39.000Z,909
+ls-0057,demo-student-001,learning,Human Neural System,2026-09-03T13:18:00.000Z,2026-09-03T13:38:32.000Z,1232
+ls-0058,demo-student-001,learning,Projectile Motion,2026-09-03T14:08:32.000Z,2026-09-03T14:31:58.000Z,1406
+ts-0059,demo-student-001,tool,chatbot,2026-09-03T15:06:58.000Z,2026-09-03T15:36:58.000Z,1800
+ls-0060,demo-student-001,learning,Reflex Action,2026-09-04T12:08:00.000Z,2026-09-04T12:21:39.000Z,819
+ls-0061,demo-student-001,learning,Subatomic Particles,2026-09-04T12:26:39.000Z,2026-09-04T12:38:07.000Z,688
+ls-0062,demo-student-001,learning,Kingdom Protista,2026-09-05T10:33:00.000Z,2026-09-05T11:04:47.000Z,1908
+ls-0063,demo-student-001,learning,Newton's Second Law,2026-09-05T11:41:47.000Z,2026-09-05T11:53:16.000Z,689
+ls-0064,demo-student-001,learning,Projectile Motion,2026-09-10T15:07:00.000Z,2026-09-10T15:25:59.000Z,1139
+ls-0065,demo-student-001,learning,Subatomic Particles,2026-09-10T15:58:59.000Z,2026-09-10T16:40:43.000Z,2504
+ls-0066,demo-student-001,learning,Human Neural System,2026-09-11T13:53:00.000Z,2026-09-11T14:09:36.000Z,996
+ls-0067,demo-student-001,learning,Subatomic Particles,2026-09-11T14:36:36.000Z,2026-09-11T15:00:10.000Z,1414
+ls-0068,demo-student-001,learning,Human Neural System,2026-09-11T15:26:10.000Z,2026-09-11T15:56:58.000Z,1848
+ts-0069,demo-student-001,tool,chatbot,2026-09-11T16:09:58.000Z,2026-09-11T16:17:41.000Z,463
+ls-0070,demo-student-001,learning,Newton's Second Law,2026-09-12T13:44:00.000Z,2026-09-12T14:10:45.000Z,1606
+ts-0071,demo-student-001,tool,whiteboard,2026-09-12T14:44:45.000Z,2026-09-12T14:55:10.000Z,625
+ls-0072,demo-student-001,learning,Projectile Motion,2026-09-13T15:20:00.000Z,2026-09-13T15:37:14.000Z,1035
+ls-0073,demo-student-001,learning,Enthalpy,2026-09-13T16:04:14.000Z,2026-09-13T16:18:21.000Z,847
+ts-0074,demo-student-001,tool,studyBuddy,2026-09-13T16:29:21.000Z,2026-09-13T16:42:08.000Z,768
+ls-0075,demo-student-001,learning,Bohr's Model,2026-09-15T13:21:00.000Z,2026-09-15T13:50:06.000Z,1747
+ls-0076,demo-student-001,learning,Projectile Motion,2026-09-15T13:59:06.000Z,2026-09-15T14:27:56.000Z,1729
+ls-0077,demo-student-001,learning,Kingdom Protista,2026-09-15T14:50:56.000Z,2026-09-15T15:02:03.000Z,668
+ls-0078,demo-student-001,learning,Projectile Motion,2026-09-16T13:05:00.000Z,2026-09-16T13:17:02.000Z,723
+ls-0079,demo-student-001,learning,Human Neural System,2026-09-16T13:49:02.000Z,2026-09-16T13:59:56.000Z,653
+ls-0080,demo-student-001,learning,Subatomic Particles,2026-09-19T10:40:00.000Z,2026-09-19T11:07:06.000Z,1627
+ls-0081,demo-student-001,learning,Projectile Motion,2026-09-20T13:13:00.000Z,2026-09-20T13:57:52.000Z,2692
+ls-0082,demo-student-001,learning,Newton's Second Law,2026-09-20T14:10:52.000Z,2026-09-20T14:37:44.000Z,1612
+ls-0083,demo-student-001,learning,Kingdom Protista,2026-09-20T15:02:44.000Z,2026-09-20T15:44:34.000Z,2510
+ls-0084,demo-student-001,learning,Enthalpy,2026-09-21T14:25:00.000Z,2026-09-21T14:59:07.000Z,2047
+ls-0085,demo-student-001,learning,Projectile Motion,2026-09-21T15:29:07.000Z,2026-09-21T15:52:01.000Z,1374
+ls-0086,demo-student-001,learning,Human Neural System,2026-09-21T16:28:01.000Z,2026-09-21T16:46:35.000Z,1115
+ts-0087,demo-student-001,tool,chatbot,2026-09-21T17:01:35.000Z,2026-09-21T17:16:10.000Z,875
+ls-0088,demo-student-001,learning,Projectile Motion,2026-09-22T12:56:00.000Z,2026-09-22T13:09:47.000Z,827
+ls-0089,demo-student-001,learning,Newton's Second Law,2026-09-22T13:27:47.000Z,2026-09-22T13:49:55.000Z,1328
+ls-0090,demo-student-001,learning,Human Neural System,2026-09-22T14:15:55.000Z,2026-09-22T14:54:47.000Z,2332
+ls-0091,demo-student-001,learning,Projectile Motion,2026-09-23T15:27:00.000Z,2026-09-23T15:45:03.000Z,1083
+ls-0092,demo-student-001,learning,Kingdom Protista,2026-09-23T15:54:03.000Z,2026-09-23T16:38:39.000Z,2676
+ts-0093,demo-student-001,tool,studyBuddy,2026-09-23T16:44:39.000Z,2026-09-23T17:02:12.000Z,1053
+ls-0094,demo-student-001,learning,Reflex Action,2026-09-24T14:19:00.000Z,2026-09-24T14:32:26.000Z,807
+ls-0095,demo-student-001,learning,Human Neural System,2026-09-24T14:47:26.000Z,2026-09-24T15:13:26.000Z,1560
+ts-0096,demo-student-001,tool,stickyNotes,2026-09-24T15:43:26.000Z,2026-09-24T15:45:26.000Z,120
+ls-0097,demo-student-001,learning,Projectile Motion,2026-09-25T11:22:00.000Z,2026-09-25T11:50:24.000Z,1705
+ls-0098,demo-student-001,learning,Wave Speed,2026-09-25T12:04:24.000Z,2026-09-25T12:18:46.000Z,862
+ls-0099,demo-student-001,learning,Kingdom Protista,2026-09-25T12:27:46.000Z,2026-09-25T12:50:11.000Z,1346
+ts-0100,demo-student-001,tool,whiteboard,2026-09-25T13:17:11.000Z,2026-09-25T13:22:26.000Z,314
+ls-0101,demo-student-001,learning,Kingdom Fungi,2026-09-27T11:21:00.000Z,2026-09-27T11:37:25.000Z,986
+ls-0102,demo-student-001,learning,Kingdom Protista,2026-09-27T11:52:25.000Z,2026-09-27T12:11:17.000Z,1132
+ls-0103,demo-student-001,learning,Kingdom Protista,2026-09-27T12:38:17.000Z,2026-09-27T12:45:40.000Z,443
+ts-0104,demo-student-001,tool,stickyNotes,2026-09-27T13:24:40.000Z,2026-09-27T13:26:40.000Z,120
+ls-0105,demo-student-001,learning,Newton's Second Law,2026-09-28T11:33:00.000Z,2026-09-28T11:55:04.000Z,1325
+ls-0106,demo-student-001,learning,Enthalpy,2026-09-28T12:28:04.000Z,2026-09-28T13:06:55.000Z,2331
+ls-0107,demo-student-001,learning,Kingdom Fungi,2026-09-28T13:26:55.000Z,2026-09-28T14:06:16.000Z,2361
+ls-0108,demo-student-001,learning,Projectile Motion,2026-09-29T11:21:00.000Z,2026-09-29T11:33:49.000Z,770
+ls-0109,demo-student-001,learning,Human Neural System,2026-09-29T11:43:49.000Z,2026-09-29T12:13:43.000Z,1793
+ls-0110,demo-student-001,learning,Bohr's Model,2026-09-30T15:00:00.000Z,2026-09-30T15:25:21.000Z,1521
+ls-0111,demo-student-001,learning,Kingdom Protista,2026-10-02T14:54:00.000Z,2026-10-02T15:09:18.000Z,919
+ls-0112,demo-student-001,learning,Enthalpy,2026-10-03T15:02:00.000Z,2026-10-03T15:25:34.000Z,1414
+ls-0113,demo-student-001,learning,Newton's Second Law,2026-10-03T15:45:34.000Z,2026-10-03T16:02:25.000Z,1011
+ls-0114,demo-student-001,learning,Bohr's Model,2026-10-03T16:12:25.000Z,2026-10-03T16:46:31.000Z,2046
+ls-0115,demo-student-001,learning,Subatomic Particles,2026-10-04T13:39:00.000Z,2026-10-04T14:02:48.000Z,1429
+ts-0116,demo-student-001,tool,whiteboard,2026-10-04T14:38:48.000Z,2026-10-04T14:47:09.000Z,500
+ls-0117,demo-student-001,learning,Reflex Action,2026-10-05T14:46:00.000Z,2026-10-05T15:09:37.000Z,1417
+ls-0118,demo-student-001,learning,Kingdom Fungi,2026-10-06T14:54:00.000Z,2026-10-06T15:01:05.000Z,426
+ts-0119,demo-student-001,tool,whiteboard,2026-10-06T15:20:05.000Z,2026-10-06T15:26:10.000Z,365
+ls-0120,demo-student-001,learning,Kingdom Fungi,2026-10-07T12:58:00.000Z,2026-10-07T13:10:21.000Z,742
+ls-0121,demo-student-001,learning,Enthalpy,2026-10-07T13:27:21.000Z,2026-10-07T13:44:42.000Z,1041
+ls-0122,demo-student-001,learning,Subatomic Particles,2026-10-08T13:48:00.000Z,2026-10-08T13:59:17.000Z,678

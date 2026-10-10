@@ -1,0 +1,21 @@
+# --- Real platform data: NEVER commit -------------------------------------
+# The real export contains personal data, password hashes, tokens and OTPs.
+# Only data/synthetic/ is allowed into the repository.
+*.zip
+*.json
+!data/synthetic/*.json
+data/*
+!data/synthetic/
+analytics_data_export/
+
+# --- Secrets ----------------------------------------------------------------
+.env
+.streamlit/secrets.toml
+
+# --- Python -----------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.ipynb_checkpoints/
