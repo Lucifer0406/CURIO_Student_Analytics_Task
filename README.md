@@ -4,6 +4,8 @@ An interactive dashboard that turns a student's quiz attempts, faculty assessmen
 into explainable performance analytics: accuracy, progress over time, subject and topic breakdowns,
 topic mastery, study habits and rule-based recommendations.
 
+**Live demo: [curiostudentanalytics.streamlit.app](https://curiostudentanalytics.streamlit.app/)**
+
 Built as a working prototype of the **Curio Student Analytics System** architecture
 (MongoDB collections → analytics engine → structured results → dashboard), in Python and Streamlit.
 
