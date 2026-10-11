@@ -2,7 +2,10 @@ import pandas as pd
 import pytest
 
 from src.data_loader import load_synthetic
-from src.performance import completed_quiz_count, overall_accuracy
+from src.performance import (
+    accuracy_table, attempt_history, badge_status, completed_quiz_count, overall_accuracy,
+    progress_over_time, response_time_vs_accuracy,
+)
 
 
 def make_answers(statuses, results, attempt_ids=None, sources=None):
@@ -21,30 +24,30 @@ def make_answers(statuses, results, attempt_ids=None, sources=None):
 
 
 # ---------------------------------------------------------------------------
-# overall_accuracy - tests written by you (Stage 2)
+# overall_accuracy
 # ---------------------------------------------------------------------------
 def test_accuracy_is_pooled_over_completed_answers():
     answers = make_answers(["completed"] * 4, [True, False, True, True])
     assert overall_accuracy(answers) == pytest.approx(75.0)
 
-#   - in-progress attempt is ignored                      -> 50.0
+
 def test_in_progress_ignored():
     answers = make_answers(["completed","completed","in_progress","in_progress"],[True,False,True,True])
     assert overall_accuracy(answers) == pytest.approx(50)
 
-#   - empty table                                         -> None
+
 def test_empty_table():
     answers = make_answers([],[])
     assert overall_accuracy(answers) is None
 
-#   - completed attempt where every is_correct is <NA>    -> None
+
 def test_completed_is_correct_NA():
     answers = make_answers(['completed']*4,[None]*4)
     assert overall_accuracy(answers) is None
 
 
 # ---------------------------------------------------------------------------
-# overall_accuracy - edge cases added at Stage 1
+# overall_accuracy - edge cases
 # ---------------------------------------------------------------------------
 def test_accuracy_pools_answers_instead_of_averaging_quizzes():
     # Quiz A: 1/2 correct (50%). Quiz B: 10/10 correct (100%).
@@ -78,7 +81,7 @@ def test_accuracy_bounds(results, expected):
 
 
 # ---------------------------------------------------------------------------
-# completed_quiz_count - tests added at Stage 1
+# completed_quiz_count
 # ---------------------------------------------------------------------------
 def test_quiz_count_counts_attempts_not_question_rows():
     # 2 completed attempts x 3 questions + 1 in-progress attempt.
@@ -128,13 +131,8 @@ def test_synthetic_demo_student_numbers():
 
 
 # ---------------------------------------------------------------------------
-# Stage 0 functions: breakdowns, progression, response time, badges
+# Breakdowns, progression, response time, badges
 # ---------------------------------------------------------------------------
-from src.performance import (  # noqa: E402
-    accuracy_table, attempt_history, badge_status, progress_over_time, response_time_vs_accuracy,
-)
-
-
 def make_full(rows):
     """rows: (attempt_id, status, attempted_at_utc, subject, difficulty, is_correct, time_sec, answered)"""
     df = pd.DataFrame(rows, columns=["attempt_id", "attempt_status", "attempted_at", "subject", "difficulty",

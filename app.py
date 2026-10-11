@@ -362,7 +362,7 @@ def definitions():
     st.markdown(f"""
 | Metric | Definition | Source of the rule |
 |---|---|---|
-| **Overall accuracy** | correct ÷ evaluated answers, pooled across all completed attempts. Blanks = wrong; ungraded answers excluded; in-progress attempts excluded | Prototype (intern's decision) |
+| **Overall accuracy** | correct ÷ evaluated answers, pooled across all completed attempts. Blanks = wrong; ungraded answers excluded; in-progress attempts excluded | Prototype |
 | **Completed quizzes** | distinct completed attempts, practice + faculty assessments | Prototype |
 | **Badges** | {", ".join(f"{n} ≥ {t}" for n, t in BADGES)} completed quizzes | Architecture diagram |
 | **Pass threshold** | {PASS_THRESHOLD_PCT}% | Architecture diagram |

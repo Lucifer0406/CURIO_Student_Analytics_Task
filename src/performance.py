@@ -11,7 +11,7 @@ import pandas as pd
 from src.config import BADGES, LOCAL_TIMEZONE
 
 
-# --- Written by the intern (Stage 2) ----------------------------------------
+# --- Headline metrics ---------------------------------------------------------
 def overall_accuracy(answers: pd.DataFrame) -> float | None:
     """Pooled % of evaluated answers in completed attempts. None if nothing to measure."""
     completed = answers[answers['attempt_status']=='completed']
@@ -29,7 +29,7 @@ def completed_quiz_count(answers:pd.DataFrame) -> int:
     return completed['attempt_id'].nunique()
 
 
-# --- Stage 0 implementation ---------------------------------------------------
+# --- Breakdowns, progression and badges ---------------------------------------
 def evaluated_answers(answers: pd.DataFrame) -> pd.DataFrame:
     """The rows every accuracy figure is computed from (same rule as overall_accuracy)."""
     mask = (answers["attempt_status"] == "completed") & answers["is_correct"].notna()
